@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/photo-editor/static/css/main.88173e7a.chunk.css",
+    "main.js": "/photo-editor/static/js/main.521237a8.chunk.js",
+    "main.js.map": "/photo-editor/static/js/main.521237a8.chunk.js.map",
+    "runtime-main.js": "/photo-editor/static/js/runtime-main.061bed54.js",
+    "runtime-main.js.map": "/photo-editor/static/js/runtime-main.061bed54.js.map",
+    "static/js/2.f79d61f8.chunk.js": "/photo-editor/static/js/2.f79d61f8.chunk.js",
+    "static/js/2.f79d61f8.chunk.js.map": "/photo-editor/static/js/2.f79d61f8.chunk.js.map",
+    "index.html": "/photo-editor/index.html",
+    "static/css/main.88173e7a.chunk.css.map": "/photo-editor/static/css/main.88173e7a.chunk.css.map",
+    "static/js/2.f79d61f8.chunk.js.LICENSE.txt": "/photo-editor/static/js/2.f79d61f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.061bed54.js",
+    "static/js/2.f79d61f8.chunk.js",
+    "static/css/main.88173e7a.chunk.css",
+    "static/js/main.521237a8.chunk.js"
+  ]
+}
